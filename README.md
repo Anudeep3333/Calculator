@@ -1,2 +1,2 @@
 # User Management System.
-Designed a Calculator webapp using JAVA and Swing AWT.
+Designed a User management system webapp using JAVA,SQL and Swing AWT.
